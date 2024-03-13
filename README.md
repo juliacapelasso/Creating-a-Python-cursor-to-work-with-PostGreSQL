@@ -1,2 +1,1 @@
-# Data_Engineering
-In this repository, I'll be posting my Data Engineering projects.
+This code performs a series of operations using PostgreSQL database via the psycopg2 library in Python. Also it sets up a PostgreSQL database connection, creates a new database, creates a table within that database, inserts data into the table, and then validates the inserted data by retrieving it from the table. Finally, it closes the cursors.
